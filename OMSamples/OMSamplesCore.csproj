@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
     <ApplicationIcon />
     <StartupObject>OMSamples.Program</StartupObject>
   </PropertyGroup>
@@ -17,7 +17,7 @@
 
   <ItemGroup>
     <Reference Include="3cxpscomcpp2">
-      <HintPath>..\..\..\Program Files\3CX Phone System\Bin\3cxpscomcpp2.dll</HintPath>
+      <HintPath>C:\Program Files\3CX Phone System\Bin\3cxpscomcpp2.dll</HintPath>
       <Private>false</Private>
     </Reference>
   </ItemGroup>

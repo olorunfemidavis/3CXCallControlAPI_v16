@@ -1,0 +1,11 @@
+C:\Users\Aziz\source\repos\3CXCallControlAPI_v16\OMSamples\obj\Debug\netcoreapp2.1\OMSamplesCore.AssemblyInfoInputs.cache
+C:\Users\Aziz\source\repos\3CXCallControlAPI_v16\OMSamples\obj\Debug\netcoreapp2.1\OMSamplesCore.AssemblyInfo.cs
+C:\Users\Aziz\source\repos\3CXCallControlAPI_v16\OMSamples\obj\Debug\netcoreapp2.1\OMSamplesCore.csproj.CoreCompileInputs.cache
+C:\Users\Aziz\source\repos\3CXCallControlAPI_v16\OMSamples\bin\Debug\netcoreapp2.1\OMSamplesCore.deps.json
+C:\Users\Aziz\source\repos\3CXCallControlAPI_v16\OMSamples\bin\Debug\netcoreapp2.1\OMSamplesCore.runtimeconfig.json
+C:\Users\Aziz\source\repos\3CXCallControlAPI_v16\OMSamples\bin\Debug\netcoreapp2.1\OMSamplesCore.runtimeconfig.dev.json
+C:\Users\Aziz\source\repos\3CXCallControlAPI_v16\OMSamples\bin\Debug\netcoreapp2.1\OMSamplesCore.dll
+C:\Users\Aziz\source\repos\3CXCallControlAPI_v16\OMSamples\bin\Debug\netcoreapp2.1\OMSamplesCore.pdb
+C:\Users\Aziz\source\repos\3CXCallControlAPI_v16\OMSamples\obj\Debug\netcoreapp2.1\OMSamplesCore.dll
+C:\Users\Aziz\source\repos\3CXCallControlAPI_v16\OMSamples\obj\Debug\netcoreapp2.1\OMSamplesCore.pdb
+C:\Users\Aziz\source\repos\3CXCallControlAPI_v16\OMSamples\obj\Debug\netcoreapp2.1\OMSamplesCore.genruntimeconfig.cache
